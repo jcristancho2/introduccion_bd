@@ -8,7 +8,7 @@ Parte 1: Normalización
 A continuación, se te proporciona una tabla inicial que contiene información de libros, autores, clientes, pedidos y transacciones. Debes aplicar el proceso de normalización hasta la Tercera Forma Normal (3FN). Presenta cada paso de normalización con su justificación.
 
 
-![Uploading image.png…]()
+https://khc-sistema-v2.s3.amazonaws.com/editor/17471428083896915a9073ed8c8/attachment-1.png.png
 
 
 
